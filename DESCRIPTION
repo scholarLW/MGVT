@@ -1,0 +1,12 @@
+Package: MGVT
+Type: Package
+Title: Visualization toolkit for Metagenome analysis
+Version: 1.0
+Date: 2019-06-20
+Author: KMHD
+Maintainer: Yong zhou, Wen Luo <luowen@kmhdgene.com>
+Description: A collection of analysis toolkit for metagenome databases.
+License: GPL-2
+LazyLoad: yes
+NeedsCompilation: yes
+Packaged: 2019-07-25 03:25:48 UTC; luowen
